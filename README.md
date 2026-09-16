@@ -156,7 +156,6 @@ CatchBug eliminates the friction between finding a bug and reporting it. Instead
 We welcome contributions from developers, QA engineers, and open-source enthusiasts!
 
 - **[Contributing Guide](CONTRIBUTING.md)**: Setup, architectural guardrails, branching, and PR workflow.
-- **[Contributors](CONTRIBUTORS.md)**: Meet the people who build and maintain CatchBug.
 - **[Security Policy](SECURITY.md)**: Vulnerability disclosure guidelines and privacy architecture.
 - **[Code of Conduct](CODE_OF_CONDUCT.md)**: Our pledge to maintain a welcoming community.
 
