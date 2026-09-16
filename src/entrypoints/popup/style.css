@@ -1,0 +1,25 @@
+:root {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  line-height: 1.4;
+  font-weight: 400;
+  color-scheme: dark;
+  color: #f9fafb;
+  background-color: #090d16;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  width: 380px;
+  background-color: #090d16;
+  overflow: hidden;
+}
+
+#app {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
